@@ -25135,9 +25135,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(store, 'store', '/Users/nick/projects/starwars/src/app.js');
+  __REACT_HOT_LOADER__.register(store, 'store', 'C:/Users/nick/Documents/Projects/starwars/src/app.js');
 
-  __REACT_HOT_LOADER__.register(container, 'container', '/Users/nick/projects/starwars/src/app.js');
+  __REACT_HOT_LOADER__.register(container, 'container', 'C:/Users/nick/Documents/Projects/starwars/src/app.js');
 }();
 
 ;
@@ -25188,9 +25188,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(App, 'App', '/Users/nick/projects/starwars/src/components/App/index.js');
+  __REACT_HOT_LOADER__.register(App, 'App', 'C:/Users/nick/Documents/Projects/starwars/src/components/App/index.js');
 
-  __REACT_HOT_LOADER__.register(_default, 'default', '/Users/nick/projects/starwars/src/components/App/index.js');
+  __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/nick/Documents/Projects/starwars/src/components/App/index.js');
 }();
 
 ;
@@ -25265,13 +25265,13 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(CharacterList, 'CharacterList', '/Users/nick/projects/starwars/src/components/CharacterList/index.js');
+  __REACT_HOT_LOADER__.register(CharacterList, 'CharacterList', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterList/index.js');
 
-  __REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', '/Users/nick/projects/starwars/src/components/CharacterList/index.js');
+  __REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterList/index.js');
 
-  __REACT_HOT_LOADER__.register(mapDispatchToProps, 'mapDispatchToProps', '/Users/nick/projects/starwars/src/components/CharacterList/index.js');
+  __REACT_HOT_LOADER__.register(mapDispatchToProps, 'mapDispatchToProps', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterList/index.js');
 
-  __REACT_HOT_LOADER__.register(_default, 'default', '/Users/nick/projects/starwars/src/components/CharacterList/index.js');
+  __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterList/index.js');
 }();
 
 ;
@@ -25333,11 +25333,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(CharacterMovies, 'CharacterMovies', '/Users/nick/projects/starwars/src/components/CharacterMovies/index.js');
+  __REACT_HOT_LOADER__.register(CharacterMovies, 'CharacterMovies', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterMovies/index.js');
 
-  __REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', '/Users/nick/projects/starwars/src/components/CharacterMovies/index.js');
+  __REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterMovies/index.js');
 
-  __REACT_HOT_LOADER__.register(_default, 'default', '/Users/nick/projects/starwars/src/components/CharacterMovies/index.js');
+  __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterMovies/index.js');
 }();
 
 ;
@@ -25418,11 +25418,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(CharacterProfile, 'CharacterProfile', '/Users/nick/projects/starwars/src/components/CharacterProfile/index.js');
+  __REACT_HOT_LOADER__.register(CharacterProfile, 'CharacterProfile', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterProfile/index.js');
 
-  __REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', '/Users/nick/projects/starwars/src/components/CharacterProfile/index.js');
+  __REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterProfile/index.js');
 
-  __REACT_HOT_LOADER__.register(_default, 'default', '/Users/nick/projects/starwars/src/components/CharacterProfile/index.js');
+  __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterProfile/index.js');
 }();
 
 ;
@@ -25509,13 +25509,13 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isKnown, 'isKnown', '/Users/nick/projects/starwars/src/components/CharacterWorld/index.js');
+  __REACT_HOT_LOADER__.register(isKnown, 'isKnown', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterWorld/index.js');
 
-  __REACT_HOT_LOADER__.register(CharacterWorld, 'CharacterWorld', '/Users/nick/projects/starwars/src/components/CharacterWorld/index.js');
+  __REACT_HOT_LOADER__.register(CharacterWorld, 'CharacterWorld', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterWorld/index.js');
 
-  __REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', '/Users/nick/projects/starwars/src/components/CharacterWorld/index.js');
+  __REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterWorld/index.js');
 
-  __REACT_HOT_LOADER__.register(_default, 'default', '/Users/nick/projects/starwars/src/components/CharacterWorld/index.js');
+  __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/nick/Documents/Projects/starwars/src/components/CharacterWorld/index.js');
 }();
 
 ;
@@ -25527,7 +25527,7 @@ var _temp = function () {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return API_URL; });
-var API_URL = 'http://swapi.co/api';
+var API_URL = 'https://swapi.co/api';
 ;
 
 var _temp = function () {
@@ -25535,7 +25535,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(API_URL, 'API_URL', '/Users/nick/projects/starwars/src/constants.js');
+  __REACT_HOT_LOADER__.register(API_URL, 'API_URL', 'C:/Users/nick/Documents/Projects/starwars/src/constants.js');
 }();
 
 ;
@@ -25639,27 +25639,27 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(SET_CURRENT_CHARACTER, 'SET_CURRENT_CHARACTER', '/Users/nick/projects/starwars/src/reducer/character/actions.js');
+  __REACT_HOT_LOADER__.register(SET_CURRENT_CHARACTER, 'SET_CURRENT_CHARACTER', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/actions.js');
 
-  __REACT_HOT_LOADER__.register(SET_CHARACTER_PROFILE, 'SET_CHARACTER_PROFILE', '/Users/nick/projects/starwars/src/reducer/character/actions.js');
+  __REACT_HOT_LOADER__.register(SET_CHARACTER_PROFILE, 'SET_CHARACTER_PROFILE', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/actions.js');
 
-  __REACT_HOT_LOADER__.register(SET_CHARACTER_WORLD, 'SET_CHARACTER_WORLD', '/Users/nick/projects/starwars/src/reducer/character/actions.js');
+  __REACT_HOT_LOADER__.register(SET_CHARACTER_WORLD, 'SET_CHARACTER_WORLD', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/actions.js');
 
-  __REACT_HOT_LOADER__.register(SET_CHARACTER_MOVIES, 'SET_CHARACTER_MOVIES', '/Users/nick/projects/starwars/src/reducer/character/actions.js');
+  __REACT_HOT_LOADER__.register(SET_CHARACTER_MOVIES, 'SET_CHARACTER_MOVIES', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/actions.js');
 
-  __REACT_HOT_LOADER__.register(setCurrentCharacter, 'setCurrentCharacter', '/Users/nick/projects/starwars/src/reducer/character/actions.js');
+  __REACT_HOT_LOADER__.register(setCurrentCharacter, 'setCurrentCharacter', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/actions.js');
 
-  __REACT_HOT_LOADER__.register(setCharacterProfile, 'setCharacterProfile', '/Users/nick/projects/starwars/src/reducer/character/actions.js');
+  __REACT_HOT_LOADER__.register(setCharacterProfile, 'setCharacterProfile', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/actions.js');
 
-  __REACT_HOT_LOADER__.register(setCharacterWorld, 'setCharacterWorld', '/Users/nick/projects/starwars/src/reducer/character/actions.js');
+  __REACT_HOT_LOADER__.register(setCharacterWorld, 'setCharacterWorld', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/actions.js');
 
-  __REACT_HOT_LOADER__.register(setCharacterMovies, 'setCharacterMovies', '/Users/nick/projects/starwars/src/reducer/character/actions.js');
+  __REACT_HOT_LOADER__.register(setCharacterMovies, 'setCharacterMovies', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/actions.js');
 
-  __REACT_HOT_LOADER__.register(getCharacterProfile, 'getCharacterProfile', '/Users/nick/projects/starwars/src/reducer/character/actions.js');
+  __REACT_HOT_LOADER__.register(getCharacterProfile, 'getCharacterProfile', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/actions.js');
 
-  __REACT_HOT_LOADER__.register(getCharacterWorld, 'getCharacterWorld', '/Users/nick/projects/starwars/src/reducer/character/actions.js');
+  __REACT_HOT_LOADER__.register(getCharacterWorld, 'getCharacterWorld', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/actions.js');
 
-  __REACT_HOT_LOADER__.register(getCharacterMovies, 'getCharacterMovies', '/Users/nick/projects/starwars/src/reducer/character/actions.js');
+  __REACT_HOT_LOADER__.register(getCharacterMovies, 'getCharacterMovies', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/actions.js');
 }();
 
 ;
@@ -25695,9 +25695,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(initialState, 'initialState', '/Users/nick/projects/starwars/src/reducer/character/id.js');
+  __REACT_HOT_LOADER__.register(initialState, 'initialState', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/id.js');
 
-  __REACT_HOT_LOADER__.register(_default, 'default', '/Users/nick/projects/starwars/src/reducer/character/id.js');
+  __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/id.js');
 }();
 
 ;
@@ -25734,7 +25734,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_default, 'default', '/Users/nick/projects/starwars/src/reducer/character/index.js');
+  __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/index.js');
 }();
 
 ;
@@ -25772,9 +25772,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(initialState, 'initialState', '/Users/nick/projects/starwars/src/reducer/character/movies.js');
+  __REACT_HOT_LOADER__.register(initialState, 'initialState', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/movies.js');
 
-  __REACT_HOT_LOADER__.register(_default, 'default', '/Users/nick/projects/starwars/src/reducer/character/movies.js');
+  __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/movies.js');
 }();
 
 ;
@@ -25810,9 +25810,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(initialState, 'initialState', '/Users/nick/projects/starwars/src/reducer/character/profile.js');
+  __REACT_HOT_LOADER__.register(initialState, 'initialState', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/profile.js');
 
-  __REACT_HOT_LOADER__.register(_default, 'default', '/Users/nick/projects/starwars/src/reducer/character/profile.js');
+  __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/profile.js');
 }();
 
 ;
@@ -25848,9 +25848,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(initialState, 'initialState', '/Users/nick/projects/starwars/src/reducer/character/world.js');
+  __REACT_HOT_LOADER__.register(initialState, 'initialState', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/world.js');
 
-  __REACT_HOT_LOADER__.register(_default, 'default', '/Users/nick/projects/starwars/src/reducer/character/world.js');
+  __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/character/world.js');
 }();
 
 ;
@@ -25894,11 +25894,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(SET_CHARACTERS, 'SET_CHARACTERS', '/Users/nick/projects/starwars/src/reducer/characters/actions.js');
+  __REACT_HOT_LOADER__.register(SET_CHARACTERS, 'SET_CHARACTERS', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/characters/actions.js');
 
-  __REACT_HOT_LOADER__.register(getCharacters, 'getCharacters', '/Users/nick/projects/starwars/src/reducer/characters/actions.js');
+  __REACT_HOT_LOADER__.register(getCharacters, 'getCharacters', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/characters/actions.js');
 
-  __REACT_HOT_LOADER__.register(setCharacters, 'setCharacters', '/Users/nick/projects/starwars/src/reducer/characters/actions.js');
+  __REACT_HOT_LOADER__.register(setCharacters, 'setCharacters', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/characters/actions.js');
 }();
 
 ;
@@ -25934,9 +25934,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(initialState, 'initialState', '/Users/nick/projects/starwars/src/reducer/characters/index.js');
+  __REACT_HOT_LOADER__.register(initialState, 'initialState', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/characters/index.js');
 
-  __REACT_HOT_LOADER__.register(_default, 'default', '/Users/nick/projects/starwars/src/reducer/characters/index.js');
+  __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/characters/index.js');
 }();
 
 ;
@@ -25967,7 +25967,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_default, 'default', '/Users/nick/projects/starwars/src/reducer/index.js');
+  __REACT_HOT_LOADER__.register(_default, 'default', 'C:/Users/nick/Documents/Projects/starwars/src/reducer/index.js');
 }();
 
 ;

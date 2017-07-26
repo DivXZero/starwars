@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "homepage": "https://DivXZero.github.io/starwars",
   "scripts": {
     "build": "webpack",
-    "serve": "webpack-dev-server --hot --inline --content-base ./src --open"
+    "serve": "webpack-dev-server --hot --inline --content-base ./src --open",
+    "deploy": "yarn build && gh-pages -d build"
   },
   "dependencies": {
     "react": "^15.6.1",
@@ -20,6 +22,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "file-loader": "^0.11.2",
+    "gh-pages": "^1.0.0",
     "react-hot-loader": "next",
     "webpack": "^3.4.0",
     "webpack-dev-server": "^2.6.1"
